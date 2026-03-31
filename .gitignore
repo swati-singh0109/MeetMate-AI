@@ -1,0 +1,15 @@
+venv/
+*.pyc
+__pycache__/
+*.sqlite3
+*.log
+__pycache__/
+*.pyc
+venv/
+db.sqlite3
+media/
+staticfiles/
+
+.env
+*.wav
+*.mp3
